@@ -1,9 +1,8 @@
 v1 1 89898;
-<<<<<<< HEAD
+
 new branch  dev     hahahah -master;
-=======
-new branch  dev     hahahah;
 
 
-other branch dev aaaaahhhh;
->>>>>>> dev
+
+other branch dev aaaaahbug;
+BugR;
